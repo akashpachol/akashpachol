@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me<br><br>Hi, I'm Akash — a passionate Full Stack Developer from Kerala, India, focused on building scalable, high-performance, and visually polished web applications.<br><br>I specialize in crafting modern frontend architectures using Next.js, React.js, TypeScript, and TurboRepo while integrating robust backend systems with Node.js and MongoDB.<br><br>I love solving complex performance challenges, optimizing Core Web Vitals, designing reusable component systems, and creating seamless user experiences that feel both fast and premium.<br><br>### 🚀 What I Focus On<br><br>* Scalable Frontend Architecture<br>* High-Performance Web Applications<br>* Modern React & Next.js Ecosystem<br>* Reusable Component Systems<br>* SEO & Core Web Vitals Optimization<br>* Clean & Maintainable Code<br><br>### ⚡ Tech Stack<br><br>* Next.js<br>* React.js<br>* TypeScript<br>* Node.js<br>* MongoDB<br>* GraphQL<br>* Tailwind CSS<br>* TurboRepo<br><br>Currently working as a Next.js Developer at Nexteons, where I build production-scale applications, scalable frontend systems, and modern digital experiences.<br>
 
 
